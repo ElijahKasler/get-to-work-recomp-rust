@@ -1,0 +1,12 @@
+namespace Rewired.Interfaces;
+
+[CustomObfuscation(rename = false)]
+[CustomClassObfuscation(renamePubIntMembers = false, renamePrivateMembers = true)]
+internal interface IControllerAssigner
+{
+	bool enabled { get; set; }
+
+	bool CanHandleAssignment(ControllerType controllerType, Controller controller);
+
+	void AssignController(ControllerType controllerType, Controller controller);
+}

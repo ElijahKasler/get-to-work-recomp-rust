@@ -1,0 +1,36 @@
+namespace System.Windows.Forms.RTF;
+
+internal enum Major
+{
+	BeginGroup = 0,
+	EndGroup = 1,
+	Version = 2,
+	DefFont = 3,
+	CharSet = 4,
+	Destination = 5,
+	FontFamily = 6,
+	ColorName = 7,
+	SpecialChar = 8,
+	StyleAttr = 9,
+	DocAttr = 10,
+	SectAttr = 11,
+	TblAttr = 12,
+	ParAttr = 13,
+	CharAttr = 14,
+	PictAttr = 15,
+	BookmarkAttr = 16,
+	NeXTGrAttr = 17,
+	FieldAttr = 18,
+	TOCAttr = 19,
+	PosAttr = 20,
+	ObjAttr = 21,
+	FNoteAttr = 22,
+	KeyCodeAttr = 23,
+	ACharAttr = 24,
+	FontAttr = 25,
+	FileAttr = 26,
+	FileSource = 27,
+	DrawAttr = 28,
+	IndexAttr = 29,
+	Unicode = 30
+}

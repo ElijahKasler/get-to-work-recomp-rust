@@ -1,0 +1,237 @@
+{
+	"m_ConfigObjects": {},
+	"m_HideFlags": 0,
+	"m_Scenes": [
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/1-ApplicationStartup.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/1.5-PreTitleScreen.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/2-TitleScreen.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/3-Loading.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/PlayerEssentials.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/MainGame/Main.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/MainGame/Main/Main_Lighting.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/PlayerEssentialsDoinklerPortfolio.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_01/Doink_World_01.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_01/Doink_World_01/Doink_World_01Lighting.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_02/Doink-World_02.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_02/Doink-World_02/Doink-World_02Lighting.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_03/Doink-World_03.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_03/Doink-World_03/Doink-World_03Lighting.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_04/Doink-World_04.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_04/Doink-World_04/Doink-World_04Lighting.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_05/Doink-World_05.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_05/Doink-World_05/Doink-World_05Lighting.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_06/Doink-World_06.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/Doink-World_06/Doink-World_06/Doink-World_06Lighting.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/PlayerEssentialsDoinklerSpecial.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/DoinklerSpecial/DoinklerSpecial.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/TheDoinklerPortfolio/DoinklerSpecial/DoinklerSpecial/DoinklerSpecialLighting.unity"
+		}
+	],
+	"m_UseUCBPForAssetBundles": false
+}

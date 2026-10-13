@@ -1,0 +1,16 @@
+namespace System.Windows.Forms;
+
+public enum DataGridViewCellBorderStyle
+{
+	Custom = 0,
+	Single = 1,
+	Raised = 2,
+	Sunken = 3,
+	None = 4,
+	SingleVertical = 5,
+	RaisedVertical = 6,
+	SunkenVertical = 7,
+	SingleHorizontal = 8,
+	RaisedHorizontal = 9,
+	SunkenHorizontal = 10
+}

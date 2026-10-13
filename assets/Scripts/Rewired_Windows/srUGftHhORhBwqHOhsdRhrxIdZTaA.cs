@@ -1,0 +1,6 @@
+internal struct srUGftHhORhBwqHOhsdRhrxIdZTaA
+{
+	public kHytoMLFttbMQItYpmOeCmpcxKFqA HXkBrKQtYIfkIDAPmraddYtdzxsnA;
+
+	public rzEmOPQiCjdXeLlJAanTVJnaCieJA OKKcgtyLVfnXZvYcfchPXkSBFJNq;
+}

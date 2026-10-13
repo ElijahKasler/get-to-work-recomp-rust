@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>System.IO.Hashing</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <NoStandardLib>True</NoStandardLib>
+    <AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>False</AppendRuntimeIdentifierToOutputPath>
+    <DisableImplicitConfigurationDefines>True</DisableImplicitConfigurationDefines>
+    <DisableImplicitFrameworkDefines>True</DisableImplicitFrameworkDefines>
+    <DisableImplicitFrameworkReferences>True</DisableImplicitFrameworkReferences>
+    <DisableTransitiveProjectReferences>True</DisableTransitiveProjectReferences>
+    <DisableImplicitNamespaceImports>True</DisableImplicitNamespaceImports>
+    <EnsureRuntimePackageDependencies>False</EnsureRuntimePackageDependencies>
+    <AddAdditionalExplicitAssemblyReferences>False</AddAdditionalExplicitAssemblyReferences>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="ILLink.Substitutions.xml" />
+    <EmbeddedResource Include="ILLink.Substitutions.xml" LogicalName="ILLink.Substitutions.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="../netstandard/netstandard.csproj" />
+    <ProjectReference Include="../System.Memory/System.Memory.csproj" />
+    <ProjectReference Include="../System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.csproj" />
+  </ItemGroup>
+</Project>

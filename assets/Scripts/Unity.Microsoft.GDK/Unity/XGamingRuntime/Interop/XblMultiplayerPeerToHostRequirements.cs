@@ -1,0 +1,20 @@
+namespace Unity.XGamingRuntime.Interop;
+
+internal struct XblMultiplayerPeerToHostRequirements
+{
+	internal readonly ulong LatencyMaximum;
+
+	internal readonly ulong BandwidthDownMinimumInKbps;
+
+	internal readonly ulong BandwidthUpMinimumInKbps;
+
+	internal readonly XblMultiplayerMetrics HostSelectionMetric;
+
+	internal XblMultiplayerPeerToHostRequirements(Unity.XGamingRuntime.XblMultiplayerPeerToHostRequirements publicObject)
+	{
+		LatencyMaximum = publicObject.LatencyMaximum;
+		BandwidthDownMinimumInKbps = publicObject.BandwidthDownMinimumInKbps;
+		BandwidthUpMinimumInKbps = publicObject.BandwidthUpMinimumInKbps;
+		HostSelectionMetric = publicObject.HostSelectionMetric;
+	}
+}

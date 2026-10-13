@@ -1,0 +1,20 @@
+namespace Unity.XGamingRuntime.Interop;
+
+internal struct SYSTEMTIME
+{
+	internal ushort wYear;
+
+	internal ushort wMonth;
+
+	internal ushort wDayOfWeek;
+
+	internal ushort wDay;
+
+	internal ushort wHour;
+
+	internal ushort wMinute;
+
+	internal ushort wSecond;
+
+	internal ushort wMilliseconds;
+}

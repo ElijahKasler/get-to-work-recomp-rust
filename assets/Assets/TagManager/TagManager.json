@@ -1,0 +1,60 @@
+{
+	"m_Layers": [
+		"Default",
+		"TransparentFX",
+		"Ignore Raycast",
+		"Particles",
+		"Water",
+		"UI",
+		"",
+		"",
+		"Player",
+		"PlayerModel",
+		"EventTrigger",
+		"PlayerTrigger",
+		"PlayerShadow",
+		"",
+		"InnerWalls",
+		"LevelBoundsWall",
+		"LevelBoundsRoof",
+		"Lights",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"m_RenderingLayers": [
+		"Default",
+		"Player"
+	],
+	"m_SortingLayers": [
+		{
+			"m_Locked": false,
+			"m_Name": "Default",
+			"m_UniqueID": 0
+		}
+	],
+	"m_Tags": [
+		"Slippery",
+		"Sticky",
+		"PlayerEventTrigger",
+		"TrailerCamera",
+		"ElevatorButtonOpen",
+		"ElevatorNumericButton",
+		"ElevatorGoButton",
+		"Elevator",
+		"TrailerCamera3",
+		"TrailerCamera2",
+		"CoreRecorder"
+	]
+}

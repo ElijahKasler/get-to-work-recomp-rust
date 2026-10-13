@@ -1,0 +1,32 @@
+using System;
+
+internal struct VDzCKqcduHgpdfzDFDgmKcrzjbQXb
+{
+	public IntPtr wbSWfFdTNIBrLbmYyULdwGftBwNk;
+
+	public lwjtiAdHkKgQWaCfnTGfaaGsJZct ogIsLAsLBrEFSgeyOggTIEgMbwBeb;
+
+	public qfOwMFUhPVeGZDVVWvpJmcSVCyiZ WDshKgkkyaYcLcxdkZvflZojHYFP;
+
+	public uint LjkejDJjAvNgItrvxDHhGgcEjvYtA;
+
+	public uint ePHWMaCsKbohNiKniBCBMQcdxKyP;
+
+	public int wZEHuDeLpsNtpSnZiljuvbYYDtHs;
+
+	public int UHLAPRWAqgzAbIRDFvsUpteUpEOl;
+
+	public int lwwLVTGbwjzPODIkKeApdkWSLenab;
+
+	internal VDzCKqcduHgpdfzDFDgmKcrzjbQXb(ref srUGftHhORhBwqHOhsdRhrxIdZTaA P_0)
+	{
+		wbSWfFdTNIBrLbmYyULdwGftBwNk = P_0.HXkBrKQtYIfkIDAPmraddYtdzxsnA.rSgFlgbtmNpMHWTZCLpXKlWWKAXGA;
+		ogIsLAsLBrEFSgeyOggTIEgMbwBeb = (lwjtiAdHkKgQWaCfnTGfaaGsJZct)P_0.OKKcgtyLVfnXZvYcfchPXkSBFJNq.qFNPMULwCWWBgkZdopRdAFUqKtbE.AMlVkxOYsHkJdbECxhdcfeRoqEJF;
+		WDshKgkkyaYcLcxdkZvflZojHYFP = (qfOwMFUhPVeGZDVVWvpJmcSVCyiZ)P_0.OKKcgtyLVfnXZvYcfchPXkSBFJNq.qFNPMULwCWWBgkZdopRdAFUqKtbE.EjquQQnAXYCNicyeZybDTgBpEPZNA.CFOjHZgDRkQQPvlsFoSAqzlNfPJcA;
+		wZEHuDeLpsNtpSnZiljuvbYYDtHs = P_0.OKKcgtyLVfnXZvYcfchPXkSBFJNq.qFNPMULwCWWBgkZdopRdAFUqKtbE.EjquQQnAXYCNicyeZybDTgBpEPZNA.MOnOOTCxjOUHHqOAOkFtsqVXNZcn;
+		ePHWMaCsKbohNiKniBCBMQcdxKyP = P_0.OKKcgtyLVfnXZvYcfchPXkSBFJNq.qFNPMULwCWWBgkZdopRdAFUqKtbE.jlcoVBqIjONdmLatkfVgvNhSZLCM;
+		UHLAPRWAqgzAbIRDFvsUpteUpEOl = P_0.OKKcgtyLVfnXZvYcfchPXkSBFJNq.qFNPMULwCWWBgkZdopRdAFUqKtbE.NPaataCPXiBYqMRcCquuWDNtVoCs;
+		lwwLVTGbwjzPODIkKeApdkWSLenab = P_0.OKKcgtyLVfnXZvYcfchPXkSBFJNq.qFNPMULwCWWBgkZdopRdAFUqKtbE.ESLMzfoqUxVAslGDjCkgHtRPdSCu;
+		LjkejDJjAvNgItrvxDHhGgcEjvYtA = P_0.OKKcgtyLVfnXZvYcfchPXkSBFJNq.qFNPMULwCWWBgkZdopRdAFUqKtbE.IvUIJQjWvuHoDEDaDXbkQpxCBdiC;
+	}
+}

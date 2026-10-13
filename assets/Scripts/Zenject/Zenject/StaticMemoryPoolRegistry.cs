@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using ModestTree;
+
+namespace Zenject;
+
+public static class StaticMemoryPoolRegistry
+{
+	private static readonly List<IMemoryPool> _pools = new List<IMemoryPool>();
+
+	public static IEnumerable<IMemoryPool> Pools => _pools;
+
+	public static event Action<IMemoryPool> PoolAdded = delegate
+	{
+	};
+
+	public static event Action<IMemoryPool> PoolRemoved = delegate
+	{
+	};
+
+	public static void Add(IMemoryPool memoryPool)
+	{
+		_pools.Add(memoryPool);
+		PoolAdded(memoryPool);
+	}
+
+	public static void Remove(IMemoryPool memoryPool)
+	{
+		_pools.RemoveWithConfirm(memoryPool);
+		PoolRemoved(memoryPool);
+	}
+}
